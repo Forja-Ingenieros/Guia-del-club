@@ -97,4 +97,4 @@ Reglas para publicar:
 Excel, Python, Power BI, Minitab, Arena, FlexSim, Lucidchart, draw.io, Notion. No son obligatorias: se usa lo que el equipo domine o quiera aprender.
 
 ## 10. Contacto
-📩 [tu correo o red social aquí]
+📩 ivxnquiroz@outlook.es
